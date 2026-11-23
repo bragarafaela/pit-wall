@@ -15,4 +15,5 @@ Consolidar os conhecimentos de estruturação semântica e estilização moderna
 
 ### 🛠️ Tecnologias e Conceitos Aplicados
 HTML
+
 VS CODE
